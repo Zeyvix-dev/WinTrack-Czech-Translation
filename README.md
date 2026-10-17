@@ -47,7 +47,7 @@ Pokud programu důvěřujete:
 
 ## Autor
 
-Lukáš Zamazal
+Zeyvix
 
 ## Zdrojové soubory
 
